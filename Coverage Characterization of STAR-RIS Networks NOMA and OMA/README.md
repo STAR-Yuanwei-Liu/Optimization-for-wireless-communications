@@ -19,7 +19,7 @@ If you use this simulation code package in any way, please cite the original pap
 }
 ```
 
-The author in charge of this simulation code pacakge is: Chenyu Wu (email: wuchenyu@hit.edu.cn).
+The author in charge of this simulation code package is: Chenyu Wu (email: wuchenyu@hit.edu.cn).
 
 One could run the `plot_figure3.m` directly see the simulation results. 
 
